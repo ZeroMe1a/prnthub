@@ -5,9 +5,10 @@ Lighthub doesn't have a particular use, even i didn't found a use to it, maybe y
 # Installation
 ## Windows Users
 Make sure to have Python3 and pip installed  
-Install the requirements with: `pip install -r requirements.txt`
-You will need to install [chrome-driver](https://chromedriver.chromium.org/home)
-Follow [this](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/) tutorial to modify the PATH | add the chrome-driver to USER & SYSTEM PATH!
+Install the requirements with: `pip install -r requirements.txt`  
+You will need to install [chrome-driver](https://chromedriver.chromium.org/home)  
+Follow [this](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/) tutorial to modify the PATH  
+add the chrome-driver to USER & SYSTEM PATH!
 ## Linux Users
 Also make sure to have Python3 and pip installed  
 Install the requirements with: `pip install -r requirements.txt`  
